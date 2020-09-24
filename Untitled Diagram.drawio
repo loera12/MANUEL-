@@ -1,1 +1,179 @@
-<mxfile host="app.diagrams.net" modified="2020-09-24T20:28:46.362Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" version="13.7.5" etag="yZXFPJh4eHHJ88_cLLN6" type="github"><diagram id="hluF8BUa6tTqUX4944hx">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-24T22:07:03.171Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="6yNjOpLG2WIQP8ZnqUN8" version="13.7.5" type="github">
+  <diagram id="hluF8BUa6tTqUX4944hx" name="Page-1">
+    <mxGraphModel dx="1108" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ih893YdbmPj75doVjneU-1" value="INGENIERIA&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-2" value="DOCUMENTACION" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-3" value="COMPRAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-5" value="CALIDAD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-7" value="PROVEDOR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-8" value="ENVIOS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ih893YdbmPj75doVjneU-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-14" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ih893YdbmPj75doVjneU-10" target="ih893YdbmPj75doVjneU-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-17" value="NO&lt;br&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ih893YdbmPj75doVjneU-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-10" value="ARRANQUE DE LINEA SAM" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="130" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-18" value="recopilar la info&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ih893YdbmPj75doVjneU-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="110" />
+              <mxPoint x="80" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.567;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ih893YdbmPj75doVjneU-11" target="ih893YdbmPj75doVjneU-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-11" value="&lt;font style=&quot;font-size: 9px&quot;&gt;CONFIRMAR DOCUMENTACION&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="115" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-21" value="&lt;font style=&quot;font-size: 9px&quot;&gt;NO, so Strat with one Weey before run&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ih893YdbmPj75doVjneU-19" target="ih893YdbmPj75doVjneU-20">
+          <mxGeometry x="-0.5325" relative="1" as="geometry">
+            <mxPoint x="290" y="280.16666666666674" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="290" />
+              <mxPoint x="330" y="290" />
+              <mxPoint x="330" y="155" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-23" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ih893YdbmPj75doVjneU-19" target="ih893YdbmPj75doVjneU-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-19" value="Arranque validacion new conector VS tube stndr." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-20" value="&lt;font style=&quot;font-size: 9px&quot;&gt;Junta para inforpar a departamentos y disponibilidd de equipo&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="115" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ih893YdbmPj75doVjneU-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-31" value="No pass Star again run and check" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ih893YdbmPj75doVjneU-29">
+          <mxGeometry x="-0.6503" y="-1" relative="1" as="geometry">
+            <mxPoint x="27.5" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-38" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ih893YdbmPj75doVjneU-22" target="ih893YdbmPj75doVjneU-37">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-22" value="Finalization de AQ OQ PQ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ih893YdbmPj75doVjneU-24" target="ih893YdbmPj75doVjneU-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-24" value="&lt;font style=&quot;font-size: 9px&quot;&gt;Preparar DHR&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="210" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ih893YdbmPj75doVjneU-28" target="ih893YdbmPj75doVjneU-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-28" value="Run results. pass / no pass" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ih893YdbmPj75doVjneU-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-33" value="Realizar nueva corrida" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="230" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-40" value="no pass" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ih893YdbmPj75doVjneU-37" target="ih893YdbmPj75doVjneU-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-42" value="yes pass" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ih893YdbmPj75doVjneU-37" target="ih893YdbmPj75doVjneU-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-37" value="llevar documentacion de corrida a documentacion para proseguir con etapa d eimplementacion de fixturas Enfit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="440" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.828;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ih893YdbmPj75doVjneU-39" target="ih893YdbmPj75doVjneU-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-39" value="no pass Realizar cambios" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="460" width="80" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ih893YdbmPj75doVjneU-41" target="ih893YdbmPj75doVjneU-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-47" value="Recaudar firmas" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ih893YdbmPj75doVjneU-46">
+          <mxGeometry x="-0.4069" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-48" value="no passt" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ih893YdbmPj75doVjneU-46">
+          <mxGeometry x="-0.7632" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-50" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ih893YdbmPj75doVjneU-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-41" value="Aprovacion de compra de fixtura&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ih893YdbmPj75doVjneU-43" target="ih893YdbmPj75doVjneU-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-55" value="yes pass" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ih893YdbmPj75doVjneU-54">
+          <mxGeometry x="-0.663" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-43" value="aprovar con departamentos necesarios se tiene capital en cuenta de proyecto" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-51" value="comenzar con Validacion de OUT PUT. Fixturas Enfit." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="700" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ih893YdbmPj75doVjneU-52" value="programar junta y finalizar ajuste de fixturas&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
